@@ -1,1 +1,3 @@
 Cyber Security Notes
+ls-list
+cd-change directory
